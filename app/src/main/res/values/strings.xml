@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">example2</string>
+    <string name="header_name">John McDonald</string>
+    <string name="text_name">Los Angles,CA</string>
+    <string name="fname">Follow</string>
+    <string name="txt_name">34</string>
+    <string name="tx_name">1256</string>
+    <string name="btn1">Posts</string>
+    <string name="btn2">Flowwers</string>
+    <string name="t_name">About</string>
+    <string name="name">How are you</string>
+
+</resources>
